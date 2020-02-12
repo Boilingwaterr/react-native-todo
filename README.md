@@ -1,4 +1,7 @@
+this app builded with expo
+
 ## Available Scripts
+
 
 In the project directory, you can run:
 
